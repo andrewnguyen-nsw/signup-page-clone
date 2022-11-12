@@ -216,7 +216,7 @@ a:hover {
     background-color: var(--light-color);
     width: 32px;
     height: 32px;
-    border-radius: 3px;
+    border-radius: 3px 0 0 3px;
 }
 
 .google__logo-icon {
